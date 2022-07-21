@@ -1,0 +1,29 @@
+#!/bin/bash
+#chkconfig: 2345 20 80
+#description: check arp-cache
+
+case "$1" in
+start)
+   echo "$(date) service checker-arp started" >> /demo/log.txt
+   /demo/arp-table.sh &
+   echo $!>/var/run/arp-table.pid
+;;
+stop)
+   echo "$(date) service checker-arp stopped" >> /demo/log.txt
+   kill 'cat /var/run/arp-table.pid'
+   rm /var/run/arp-table.pid
+;;
+restart)
+   $0 stop
+   $0 start
+;;
+status)
+   if [ -e /var/run/arp-table.pid]; then
+	pid=$(cat /var/run/arp-table.pid)
+   else
+        exit 1
+   fi
+;;
+esac
+
+exit 0

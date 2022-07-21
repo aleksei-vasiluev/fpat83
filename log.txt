@@ -1,0 +1,98 @@
+Чт 21 июл 2022 14:48:06 UTC service checker-arp started
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:48:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:49:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:50:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:51:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:52:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:53:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:54:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:55:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:56:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:57:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:58:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+14:59:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:00:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:01:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:02:06
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:03:06
+---------------
+Чт 21 июл 2022 15:03:55 UTC service checker-arp stopped
+Чт 21 июл 2022 15:11:48 UTC service checker-arp started
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:11:48
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:12:48
+---------------
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.43.1             ether   ca:1e:3e:50:e0:b8   C                     enp0s3
+Entries: 1	Skipped: 0	Found: 1
+15:13:48
+---------------
